@@ -10,7 +10,7 @@ fine-grained inference by making dense predictions inferring labels for every pi
 so that each pixel is labeled with the class of its enclosing object ore region.
 # Accuracy of Different Deep Networks
 
-![alt text](https://d3i71xaburhd42.cloudfront.net/9a786d1ecf77dfba3459a83cd3fa0f1781bbcba4/3-Figure1-1.png)
+![Neural Nets](3-Figure1-1.png)
 
 ## AlexNet
 Toronto’s pioneering deep CNN that won the 2012 ImageNet competition with a test 
